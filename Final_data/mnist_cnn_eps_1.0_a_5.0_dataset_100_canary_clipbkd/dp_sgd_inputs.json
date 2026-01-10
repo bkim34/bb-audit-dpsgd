@@ -1,0 +1,15 @@
+{
+  "rdp_order": 5.0,
+  "eps_alpha_target": 1.0,
+  "noise_multiplier": 11.180339887498949,
+  "max_grad_norm": 1.0,
+  "sample_rate": 1.0,
+  "steps_planned": 50,
+  "epochs": 50,
+  "lr": 0.01,
+  "loss_reduction": "sum",
+  "logical_batch_size_out": 99,
+  "logical_batch_size_in": 100,
+  "n_out": 99,
+  "n_in": 100
+}

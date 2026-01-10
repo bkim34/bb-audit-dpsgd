@@ -1,0 +1,4 @@
+ema_rate: 0.25
+hidden: 256
+lr: 0.0001
+renyi_order: 2
