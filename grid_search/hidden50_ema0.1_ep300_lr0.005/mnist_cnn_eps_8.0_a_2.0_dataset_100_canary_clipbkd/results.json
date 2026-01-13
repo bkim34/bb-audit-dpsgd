@@ -1,0 +1,22 @@
+{
+  "config_id": "hidden50_ema0.1_ep300_lr0.005",
+  "run_dir": "mnist_cnn_eps_8.0_a_2.0_dataset_100_canary_clipbkd",
+  "alpha": 2.0,
+  "beta": 0.05,
+  "hidden": 50,
+  "ema_rate": 0.1,
+  "epochs": 300,
+  "lr": 0.005,
+  "batch_size": 5000,
+  "seed": 0,
+  "dv_hatD_QP": 1.1383230686187744,
+  "dv_hatD_PQ": NaN,
+  "dv_hatD_max": 1.1383230686187744,
+  "dv_LCB95_max": -1.8574092049352164,
+  "gauss_D_QP": 1.2877827375477746,
+  "gauss_D_PQ": Infinity,
+  "gauss_D_max": Infinity,
+  "gauss_LCB95_max": Infinity,
+  "losses_in_path": "Final_data/mnist_cnn_eps_8.0_a_2.0_dataset_100_canary_clipbkd/losses_in.npy",
+  "losses_out_path": "Final_data/mnist_cnn_eps_8.0_a_2.0_dataset_100_canary_clipbkd/losses_out.npy"
+}

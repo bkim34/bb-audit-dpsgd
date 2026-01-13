@@ -1,0 +1,13 @@
+{
+  "run_dir": "mnist_lr_eps_1.0_a_2.0_dataset_100_canary_clipbkd",
+  "alpha": 2.0,
+  "beta": 0.05,
+  "dv_hatD_QP": 0.4190930128097534,
+  "dv_hatD_PQ": 0.44325879216194153,
+  "dv_hatD_max": 0.44325879216194153,
+  "dv_LCB95_max": -2.5524734813920493,
+  "gauss_D_QP": 0.8234173111967696,
+  "gauss_D_PQ": 0.9206450017616419,
+  "gauss_D_max": 0.9206450017616419,
+  "gauss_LCB95_max": -2.075087271792349
+}

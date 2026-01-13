@@ -1,0 +1,13 @@
+{
+  "run_dir": "mnist_cnn_eps_8.0_a_2.0_dataset_100_canary_blank",
+  "alpha": 2.0,
+  "beta": 0.05,
+  "dv_hatD_QP": 2.517918586730957,
+  "dv_hatD_PQ": NaN,
+  "dv_hatD_max": 2.517918586730957,
+  "dv_LCB95_max": -0.4778136868230338,
+  "gauss_D_QP": 2.178690116290001,
+  "gauss_D_PQ": Infinity,
+  "gauss_D_max": Infinity,
+  "gauss_LCB95_max": Infinity
+}

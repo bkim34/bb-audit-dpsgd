@@ -1,0 +1,3 @@
+alpha:      5.0
+losses_in:  Final_data/mnist_cnn_eps_8.0_a_5.0_dataset_100_canary_clipbkd/losses_in.npy
+losses_out: Final_data/mnist_cnn_eps_8.0_a_5.0_dataset_100_canary_clipbkd/losses_out.npy
